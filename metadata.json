@@ -1,0 +1,8 @@
+{
+  "name": "DistroSmart - ERP System",
+  "description": "A comprehensive distribution management system for sales, purchases, inventory, and staff management with AI-powered insights.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
